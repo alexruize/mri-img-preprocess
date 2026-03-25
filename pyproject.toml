@@ -1,0 +1,16 @@
+[project]
+name = "mri-img-preprocess"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "imageio>=2.37.3",
+    "jupyterlab>=4.5.6",
+    "lxml-html-clean>=0.4.4",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "opencv-python>=4.13.0.92",
+    "requests-html>=0.10.0",
+    "wget>=3.2",
+]
