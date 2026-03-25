@@ -1,8 +1,8 @@
 # mri-img-preprocess
 
-<img width="1727" height="971" alt="a_vm1095" src="https://github.com/user-attachments/assets/766e1456-5cc6-48d3-9a0a-66ebcc9e6fcb" />
-
 Python scripts to pre-process medical images of the human body for ingestion into real-time 3D rendering software like TouchDesigner. 
+
+<img width="1727" height="971" alt="a_vm1110" src="https://github.com/user-attachments/assets/c1a5ce4a-13e6-4407-9477-f2e75235c82b" />
 
 This code allows users to download, clean and stitch together MRI and CT scan segment images from the following public projects:
 
